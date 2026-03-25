@@ -57,6 +57,6 @@ Improve customer targeting based on location trends
    
 🔮 Future Scope
 
-Build predictive models for restaurant ratings
-Develop an interactive dashboard (Power BI / Tableau)
-Deploy as a web-based analytics solution
+* Build predictive models for restaurant ratings
+* Develop an interactive dashboard (Power BI / Tableau)
+* Deploy as a web-based analytics solution
